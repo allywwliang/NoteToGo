@@ -39,18 +39,18 @@
 		1469780E146022E700AD1DC6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		14697810146022E700AD1DC6 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		14697812146022E700AD1DC6 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
-		14697816146022E700AD1DC6 /* NoteToGo-Info.plist */ = {isa = PBXFileReference; path = "NoteToGo-Info.plist"; sourceTree = "<group>"; };
+		14697816146022E700AD1DC6 /* NoteToGo-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "NoteToGo-Info.plist"; sourceTree = "<group>"; };
 		14697818146022E700AD1DC6 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		1469781A146022E700AD1DC6 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		1469781C146022E700AD1DC6 /* NoteToGo-Prefix.pch */ = {isa = PBXFileReference; path = "NoteToGo-Prefix.pch"; sourceTree = "<group>"; };
-		1469781D146022E700AD1DC6 /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		1469781C146022E700AD1DC6 /* NoteToGo-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NoteToGo-Prefix.pch"; sourceTree = "<group>"; };
+		1469781D146022E700AD1DC6 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		1469781E146022E700AD1DC6 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		14697821146022E700AD1DC6 /* NoteToGo.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = NoteToGo.xcdatamodel; sourceTree = "<group>"; };
 		14697828146022E700AD1DC6 /* NoteToGoTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NoteToGoTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		14697829146022E700AD1DC6 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
-		14697832146022E700AD1DC6 /* NoteToGoTests-Info.plist */ = {isa = PBXFileReference; path = "NoteToGoTests-Info.plist"; sourceTree = "<group>"; };
+		14697832146022E700AD1DC6 /* NoteToGoTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "NoteToGoTests-Info.plist"; sourceTree = "<group>"; };
 		14697834146022E700AD1DC6 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		14697836146022E700AD1DC6 /* NoteToGoTests.h */ = {isa = PBXFileReference; path = NoteToGoTests.h; sourceTree = "<group>"; };
+		14697836146022E700AD1DC6 /* NoteToGoTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NoteToGoTests.h; sourceTree = "<group>"; };
 		14697837146022E700AD1DC6 /* NoteToGoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NoteToGoTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
